@@ -8,9 +8,7 @@ Self summarized notes from DL by Hung-yi Lee
 ### 分段函数
 
 表示方法：用冲激函数$\delta$作为分类条件的控制门限，并与各项相乘
-$$
-\delta(state=condition)\tag{1.1}
-$$
+$$ \delta(state=condition)\tag{1.1} $$
 
 ### Regularization -> Fix Overfitting
 
@@ -782,7 +780,7 @@ $$
 h_v=f(\frac{1}{|N(v)|}\sum_{u\isin N(v)}Wx_u+b)\tag{5.16}
 $$
 
-## 4 Graph Gneration
+## 4 Graph Generation
 
 ### VAE
 
